@@ -19,7 +19,6 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 ## Assignments
 - [ATM Pin code State Transition](https://github.com/Yadentra/My-Portfolio/blob/main/ATM_Pin_Code_State_Transition.md)
 - [Decision Table Testing](https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md)
-- [Equivalence Partitioning](https://github.com/Yadentra/My-Portfolio/blob/main/Equivalence_Partitioning.md)
 - [EP and BVA for Student Classification](https://github.com/Yadentra/My-Portfolio/blob/main/EP%20and%20BVA%20for%20Student%20Classification.md)
 ## Automation Scripts
 - [ATM Test Automation](Automation/ATM_TestAutomation.py)
