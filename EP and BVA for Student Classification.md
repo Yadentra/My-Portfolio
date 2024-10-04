@@ -27,8 +27,7 @@ Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Val
 
 
 3. Test Cases:
-
-        Using EP and BVA, we can design the following test cases:
+Using EP and BVA, we can design the following test cases:
 
 
 | TEST CASE      | INPUT SCORE    | EXPECTED OUTPUT | TECHNIQUE                  |
