@@ -12,6 +12,7 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 - **Decision Table Testing Assignment**: A take-home assignment focusing on decision table testing methodologies.
 (https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md).
 - **Equivalence Partitioning and Boundary Value Analysis**: Take-home assignments showcasing the application of EP and BVA techniques.
+(https://github.com/Yadentra/My-Portfolio/blob/main/Equivalence_Partitioning.md).
 ## Contact
 - Email: yadentra@gmail.com
 - LinkedIn: www.linkedin.com/in/yadentra-mapuranga-6721b5b6
