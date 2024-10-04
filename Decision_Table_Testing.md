@@ -1,4 +1,4 @@
-## Decision Table Testing
+# Decision Table Testing
 
 Decision table for testing the discount application logic in the train ticket system:
 
@@ -41,7 +41,7 @@ Decision table for testing the discount application logic in the train ticket sy
   
 
 
- # 3. Total Discount Calculation:
+ ## 3. Total Discount Calculation:
 
           • Test Case 1: No discounts apply, so the total discount is 0%.
   
