@@ -10,6 +10,7 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 - **ATM Pin Code State Transition Testing**: Application of state transition testing principles for validating ATM PIN code processes.
 (https://github.com/Yadentra/My-Portfolio/blob/main/ATM_Pin_Code_State_Transition.md).
 - **Decision Table Testing Assignment**: A take-home assignment focusing on decision table testing methodologies.
+(https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md).
 - **Equivalence Partitioning and Boundary Value Analysis**: Take-home assignments showcasing the application of EP and BVA techniques.
 ## Contact
 - Email: yadentra@gmail.com
