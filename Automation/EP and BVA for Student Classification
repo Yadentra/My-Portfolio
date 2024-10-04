@@ -1,0 +1,52 @@
+## EP and BVA for Student Classification
+
+#Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) for the student classification function:
+
+1. Equivalence Classes:
+    • Valid Classes:
+                     Class 1 (Fail):  0 - 49
+                     Class 2 (Pass): 50 - 69
+                     Class 3 (Merit): 70 - 89
+                     Class 4 (Distinction): 90 - 100
+
+    • Invalid Classes:
+                     Class 5:  Scores less than 0 
+                     Class 6:  Scores greater than 100
+
+2. Boundary Values:
+    • Using the 2-BVA Technique:
+                     Lower Boundary:  0, 50, 70, 90
+                     Upper Boundary:  49, 69, 89, 100
+                     Just Outside Boundaries: -1, 48, 51, 68, 71, 88, 91, 101
+
+
+3. Test Cases:
+    Using EP and BVA, we can design the following test cases:
+
+
+| TEST CASE      | INPUT SCORE    | EXPECTED OUTPUT | TECHNIQUE                  |
+| -------------- | -------------- | --------------- | -------------------------  |
+| Test Case 1    | 0              | Fail            | BVA (Lower Boundary)       |
+| Test Case 2    | 25             | Fail            | EP (Class 1)               |
+| Test Case 3    | 49             | Fail            | BVA (Upper Boundary)       |
+| Test Case 4    | 50             | Pass            | BVA (Lower Boundary)       |
+| Test Case 5    | 60             | Pass            | EP (Class 2)               |
+| Test Case 6    | 69             | Pass            | BVA (Upper Boundary)       |
+| Test Case 7    | 70             | Merit           | BVA (Lower Boundary)       |
+| Test Case 8    | 80             | Merit           | EP (Class 3)               |
+| Test Case 9    | 89             | Merit           | BVA (Upper Boundary)       |
+| Test Case 10   | 90             | Distinction     | BVA (Lower Boundary        |
+| Test Case 11   | 95             | Distinction     | EP (Class 4)               |
+| Test Case 12   | 100            | Distinction     | BVA (Upper Boundary)       |
+| Test Case 13   | -1             | Invalid Input   | BVA (Just Outside Boundary |
+| Test Case 14   | 102            | Invalid Input   | BVA (Just Outside Boundary |
+
+
+
+Number of Test Cases: We have designed 14 test cases covering both valid and invalid inputs, ensuring thorough testing using both EP and BVA techniques.
+
+## Reasoning:
+          EP:  This technique divides the input domain into distinct ranges and tests one value from each range.
+       • BVA: This focuses on the boundaries between ranges and values just outside the boundaries to catch edge cases.
+
+By combining EP and BVA, we create a robust set of test cases that effectively cover a wide range of scenarios for the student classification function.
