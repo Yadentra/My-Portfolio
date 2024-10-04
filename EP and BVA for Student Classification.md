@@ -30,22 +30,22 @@ Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Val
 Using EP and BVA, we can design the following test cases:
 
 
-| TEST CASE      | INPUT SCORE    | EXPECTED OUTPUT | TECHNIQUE                  |
-| -------------- | -------------- | --------------- | -------------------------  |
-| Test Case 1    | 0              | Fail            | BVA (Lower Boundary)       |
-| Test Case 2    | 25             | Fail            | EP (Class 1)               |
-| Test Case 3    | 49             | Fail            | BVA (Upper Boundary)       |
-| Test Case 4    | 50             | Pass            | BVA (Lower Boundary)       |
-| Test Case 5    | 60             | Pass            | EP (Class 2)               |
-| Test Case 6    | 69             | Pass            | BVA (Upper Boundary)       |
-| Test Case 7    | 70             | Merit           | BVA (Lower Boundary)       |
-| Test Case 8    | 80             | Merit           | EP (Class 3)               |
-| Test Case 9    | 89             | Merit           | BVA (Upper Boundary)       |
-| Test Case 10   | 90             | Distinction     | BVA (Lower Boundary        |
-| Test Case 11   | 95             | Distinction     | EP (Class 4)               |
-| Test Case 12   | 100            | Distinction     | BVA (Upper Boundary)       |
-| Test Case 13   | -1             | Invalid Input   | BVA (Just Outside Boundary |
-| Test Case 14   | 102            | Invalid Input   | BVA (Just Outside Boundary |
+    | TEST CASE      | INPUT SCORE    | EXPECTED OUTPUT | TECHNIQUE                  |
+    | -------------- | -------------- | --------------- | -------------------------  |
+    | Test Case 1    | 0              | Fail            | BVA (Lower Boundary)       |
+    | Test Case 2    | 25             | Fail            | EP (Class 1)               |
+    | Test Case 3    | 49             | Fail            | BVA (Upper Boundary)       |
+    | Test Case 4    | 50             | Pass            | BVA (Lower Boundary)       |
+    | Test Case 5    | 60             | Pass            | EP (Class 2)               |
+    | Test Case 6    | 69             | Pass            | BVA (Upper Boundary)       |
+    | Test Case 7    | 70             | Merit           | BVA (Lower Boundary)       |
+    | Test Case 8    | 80             | Merit           | EP (Class 3)               |
+    | Test Case 9    | 89             | Merit           | BVA (Upper Boundary)       |
+    | Test Case 10   | 90             | Distinction     | BVA (Lower Boundary        |
+    | Test Case 11   | 95             | Distinction     | EP (Class 4)               |
+    | Test Case 12   | 100            | Distinction     | BVA (Upper Boundary)       |
+    | Test Case 13   | -1             | Invalid Input   | BVA (Just Outside Boundary |
+    | Test Case 14   | 102            | Invalid Input   | BVA (Just Outside Boundary |
 
 
 
