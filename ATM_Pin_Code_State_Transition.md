@@ -35,9 +35,13 @@ State Transition Testing for ATM Pin Code
                • T8: Third PIN Attempt -> Access Account (Event: Correct PIN)
 
 4. Events:
-• User presses "Start"
-• User enters PIN
-• Correct PIN
-• Incorrect PIN
+
+         • User presses "Start"
+   
+         • User enters PIN
+   
+         • Correct PIN
+   
+         • Incorrect PIN
 
 
