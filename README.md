@@ -8,6 +8,7 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 ## Projects
 - **Grocery Mate Webshop**: Developed a test plan and test cases for an e-commerce platform. (https://github.com/Yadentra/GroceryMate_TestPlan/blob/main/TEST_CASES.md).
 - **ATM Pin Code State Transition Testing**: Application of state transition testing principles for validating ATM PIN code processes.
+(https://github.com/Yadentra/My-Portfolio/blob/main/ATM_Pin_Code_State_Transition.md).
 - **Decision Table Testing Assignment**: A take-home assignment focusing on decision table testing methodologies.
 - **Equivalence Partitioning and Boundary Value Analysis**: Take-home assignments showcasing the application of EP and BVA techniques.
 ## Contact
