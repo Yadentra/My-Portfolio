@@ -1,15 +1,22 @@
 State Transition Testing for ATM Pin Code
 
 1. States:
-• S0: Start Screen
-• S1: Wait for PIN Screen
-• S2: First PIN Attempt
-• S3: Second PIN Attempt
-• S4: Third PIN Attempt
-• S5: Access Account
-• S6: Card Eaten
+   
+         • S0: Start Screen
 
-2. Transitions:
+         • S1: Wait for PIN Screen
+
+         • S2: First PIN Attempt
+
+         • S3: Second PIN Attempt
+
+         • S4: Third PIN Attempt
+
+         • S5: Access Account
+
+         • S6: Card Eaten
+
+3. Transitions:
    
                • T1:  Start Screen -> Wait for PIN Screen (Event: User presses "Start")
 
