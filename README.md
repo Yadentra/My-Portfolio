@@ -14,10 +14,10 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 - Email: yadentra@gmail.com
 - LinkedIn: www.linkedin.com/in/yadentra-mapuranga-6721b5b6
 ## Assignments
-- [ATM Pin Code State Transition](Assignments/ATM_Pin_Code_State_Transition.md)
-- [Decision Table Testing](Assignments/Decision_Table_Testing.md)
-- [Equivalence Partitioning](Assignments/Equivalence_Partitioning.md)
-- [Boundary Value Analysis](Assignments/Boundary_Value_Analysis.md)
+- [ATM Pin code State Transition](https://github.com/YourUsername/YourRepo/blob/main/ATM_Pin_Code_State_Transition.md)
+- [Decision Table Testing](https://github.com/YourUsername/YourRepo/blob/main/Decision_Table_Testing.md)
+- [Equivalence Partitioning](https://github.com/YourUsername/YourRepo/blob/main/Equivalence_Partitioning.md)
+- [Boundary Value Analysis](https://github.com/YourUsername/YourRepo/blob/main/Boundary_Value_Analysis.md)
 ## Automation Scripts
 - [ATM Test Automation](Automation/ATM_TestAutomation.py)
 - [Grocery Mate Automation](Automation/GroceryMate_Automation.java)
