@@ -46,16 +46,16 @@ State Transition Testing for ATM Pin Code
 
 4. State Transition Table:
 
-| Current State  | Event               | Next State   |
-| -------------- | ------------------- | -----------  |
-| S0             | User presses "Start"| S1           |
-| S1             | User Enters PIN     | S2           |
-| S2             | Correct PIN         | S5           |
-| S2             | Incorrect PIN       | S3           |
-| S3             | Correct PIN         | S5           |
-| S3             | Incorrect PIN       | S4           |
-| S4             | Correct PIN         | S5           |
-| S4             | Incorrect PIN       | S6           |
+         | Current State  | Event               | Next State   |
+         | -------------- | ------------------- | -----------  |
+         | S0             | User presses "Start"| S1           |
+         | S1             | User Enters PIN     | S2           |
+         | S2             | Correct PIN         | S5           |
+         | S2             | Incorrect PIN       | S3           |
+         | S3             | Correct PIN         | S5           |
+         | S3             | Incorrect PIN       | S4           |
+         | S4             | Correct PIN         | S5           |
+         | S4             | Incorrect PIN       | S6           |
 
 
 
