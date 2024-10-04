@@ -10,6 +10,7 @@ State Transition Testing for ATM Pin Code
 • S6: Card Eaten
 
 2. Transitions:
+   
 • T1:  Start Screen -> Wait for PIN Screen (Event: User presses "Start")
 
 • T2: Wait for PIN Screen -> First PIN Attempt (Event: User enters PIN)
