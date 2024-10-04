@@ -16,7 +16,7 @@ State Transition Testing for ATM Pin Code
 
          • S6: Card Eaten
 
-3. Transitions:
+2. Transitions:
    
                • T1:  Start Screen -> Wait for PIN Screen (Event: User presses "Start")
 
@@ -34,7 +34,7 @@ State Transition Testing for ATM Pin Code
 
                • T8: Third PIN Attempt -> Access Account (Event: Correct PIN)
 
-4. Events:
+3. Events:
 
          • User presses "Start"
    
@@ -43,5 +43,19 @@ State Transition Testing for ATM Pin Code
          • Correct PIN
    
          • Incorrect PIN
+
+4. State Transition Table:
+
+| Current State  | Event               | Next State   |
+| -------------- | ------------------- | -----------  |
+| S0             | User presses "Start"| S1           |
+| S1             | User Enters PIN     | S2           |
+| S2             | Correct PIN         | S5           |
+| S2             | Incorrect PIN       | S3           |
+| S3             | Correct PIN         | S5           |
+| S3             | Incorrect PIN       | S4           |
+| S4             | Correct PIN         | S5           |
+| S4             | Incorrect PIN       | S6           |
+
 
 
