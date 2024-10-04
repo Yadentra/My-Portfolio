@@ -1,12 +1,12 @@
 # My Portfolio
 ## About Me
-Hi! My name is [Your Name]. I am a passionate [Your Profession/Field], specializing in [Your Specialization]. I am currently learning about automation testing and software development.
+Hi! My name is Yadentra. I am a passionate with Software Engineering, specializing in Test Automation. I am currently learning about automation testing and software development.
 ## Skills
 - Programming Languages: Python, Java, JavaScript
 - Tools: Selenium, Git, JIRA, Postman
 - Technologies: Web Development, REST APIs, Automation Testing
 ## Projects
-- **Grocery Mate Webshop**: Developed a test plan and test cases for an e-commerce platform. ([Link to Project](https://github.com/YourUsername/GroceryMate_TestPlan))
+- **Grocery Mate Webshop**: Developed a test plan and test cases for an e-commerce platform. (https://github.com/Yadentra/GroceryMate_TestPlan/blob/main/TEST_CASES.md).
 - **ATM Pin Code State Transition Testing**: Application of state transition testing principles for validating ATM PIN code processes.
 - **Decision Table Testing Assignment**: A take-home assignment focusing on decision table testing methodologies.
 - **Equivalence Partitioning and Boundary Value Analysis**: Take-home assignments showcasing the application of EP and BVA techniques.
