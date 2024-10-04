@@ -38,6 +38,7 @@ Decision table for testing the discount application logic in the train ticket sy
   | 14            | Y        | N        | Y        | Y        |      35 %      |
   | 15            | N        | Y        | Y        | Y        |      30 %      |
   | 16            | Y        | Y        | Y        | Y        |      50 %      |
+  
 
 
   3. Total Discount Calculation:
