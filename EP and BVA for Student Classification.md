@@ -2,28 +2,33 @@
 
 ## EP and BVA for Student Classification
 
-#Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) for the student classification function:
+Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) for the student classification function:
 
 1. Equivalence Classes:
+
     • Valid Classes:
+   
                      Class 1 (Fail):  0 - 49
                      Class 2 (Pass): 50 - 69
                      Class 3 (Merit): 70 - 89
                      Class 4 (Distinction): 90 - 100
 
     • Invalid Classes:
+   
                      Class 5:  Scores less than 0 
                      Class 6:  Scores greater than 100
 
 2. Boundary Values:
-    • Using the 2-BVA Technique:
+   
+        • Using the 2-BVA Technique:
                      Lower Boundary:  0, 50, 70, 90
                      Upper Boundary:  49, 69, 89, 100
                      Just Outside Boundaries: -1, 48, 51, 68, 71, 88, 91, 101
 
 
 3. Test Cases:
-    Using EP and BVA, we can design the following test cases:
+
+        Using EP and BVA, we can design the following test cases:
 
 
 | TEST CASE      | INPUT SCORE    | EXPECTED OUTPUT | TECHNIQUE                  |
