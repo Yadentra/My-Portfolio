@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! I am a young professional software engineer passionate about developing efficient and innovative software solutions.
+Welcome to my portfolio! I am a young professional software engineer passionate about developing efficient and innovative software solutions. I specialize in Test Automation and am currently expanding my knowledge in automation testing and software development.
 
 ## Table of Contents
 
@@ -11,7 +11,11 @@ Welcome to my portfolio! I am a young professional software engineer passionate 
 
 ## About Me
 
-I am a passionate software engineer with experience in building responsive and user-friendly applications. I enjoy working on challenging projects that allow me to grow and learn new technologies.
+I am a young professional software engineer with a strong passion for developing efficient and innovative software solutions. With a specialization in Test Automation, I am dedicated to enhancing the quality and reliability of software products through rigorous testing methodologies.
+
+Currently, I am expanding my knowledge in automation testing and software development, exploring new tools and frameworks to improve my skill set. I thrive in collaborative environments where I can contribute to impactful projects while continuously learning and growing in my field.
+
+I enjoy tackling complex challenges and finding effective solutions, and I am eager to connect with other professionals and collaborate on exciting projects in the software engineering space.
 
 ## Skills
 
