@@ -12,7 +12,8 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 - **Decision Table Testing Assignment**: A take-home assignment focusing on decision table testing methodologies.
 (https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md).
 - **EP and BVA for Student Classification**: Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) for the student classification function.
-(https://github.com/Yadentra/My-Portfolio/blob/main/EP%20and%20BVA%20for%20Student%20Classification.md). 
+(https://github.com/Yadentra/My-Portfolio/blob/main/EP%20and%20BVA%20for%20Student%20Classification.md).
+- **Connect Four Game**:  
 ## Contact
 - Email: yadentra@gmail.com
 - LinkedIn: www.linkedin.com/in/yadentra-mapuranga-6721b5b6
