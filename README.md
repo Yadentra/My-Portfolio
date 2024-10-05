@@ -13,7 +13,7 @@ Hi! My name is Yadentra. I am a passionate with Software Engineering, specializi
 (https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md).
 - **EP and BVA for Student Classification**: Breakdown of the test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) for the student classification function.
 (https://github.com/Yadentra/My-Portfolio/blob/main/EP%20and%20BVA%20for%20Student%20Classification.md).
-- **Connect Four Game**:Connect Four is a two-player board game where players take turns dropping colored discs into a vertically suspended grid. The objective is to connect four of your pieces in a row, either horizontally, vertically, or diagonally.
+- **Connect Four Game**: Connect Four is a two-player board game where players take turns dropping colored discs into a vertically suspended grid. The objective is to connect four of your pieces in a row, either horizontally, vertically, or diagonally.
 (https://github.com/Yadentra/-ConnectFourGame-).  
 ## Contact
 - Email: yadentra@gmail.com
