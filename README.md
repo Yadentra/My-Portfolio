@@ -31,18 +31,6 @@ I enjoy tackling complex challenges and finding effective solutions, and I am ea
 - **Description**: A web-based application for users to browse and purchase grocery items. The platform features user registration, product categorization, shopping cart functionality, and payment integration.
 - **Technologies Used**: HTML, CSS, JavaScript, React, Node.js, MongoDB.
 
-### [ATM Pin Code State Transition Testing](https://github.com/Yadentra/My-Portfolio/blob/main/ATM_Pin_Code_State_Transition.md)
-- **Description**: A testing framework for validating the state transitions of an ATM pin code entry system. This project focused on ensuring the system handles valid and invalid pin entries correctly.
-- **Technologies Used**: Python, JUnit, Selenium.
-
-### [Decision Table Testing Assignment](https://github.com/Yadentra/My-Portfolio/blob/main/Decision_Table_Testing.md)
-- **Description**: A project aimed at implementing decision table testing techniques to verify the functionality of a specific application. It included defining decision tables and automating test cases based on these tables.
-- **Technologies Used**: Java, JUnit, Selenium.
-
-### [EP and BVA for Students Classification](https://github.com/Yadentra/My-Portfolio/blob/main/EP%20and%20BVA%20for%20Student%20Classification.md)
-- **Description**: This project involved applying Equivalence Partitioning (EP) and Boundary Value Analysis (BVA) techniques to classify students based on various criteria. It included designing test cases for both methodologies.
-- **Technologies Used**: Python, JUnit, Selenium.
-
 ### [Test Automation](https://github.com/Yadentra/My-Portfolio/tree/main/Test_Automation)
 - **Description**: A comprehensive test automation project that involved creating automated test scripts for web applications using Selenium. This project aimed to improve testing efficiency and coverage.
 - **Technologies Used**: Python, Selenium, JUnit.
